@@ -4,7 +4,10 @@
 }
 h2{
     text-align: center;
+    background-color: lightblue;
+    text-transform: uppercase;
 }
 .photo{
     text-align: center;
+    background-color: lightcyan;
 }
